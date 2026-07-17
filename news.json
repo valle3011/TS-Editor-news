@@ -1,0 +1,17 @@
+{
+  "_comment": "TS Editor's news feed and update check, read by the What's new panel on the welcome page (libs/ui/widgets/KisWhatsNewWidget.cpp). Edit this file and push to the ts-editor branch; the app picks it up on the next start. Raw github caches for a few minutes. Set latest_version above the running build's version to show the update banner; leave it empty (or at/below the shipped version) for no banner. Write title/text as PLAIN TEXT: the panel escapes them, so an HTML entity here would show up literally.",
+  "latest_version": "",
+  "url": "https://github.com/valle3011/TS-Editor/releases",
+  "items": [
+    {
+      "title": "Photoshop design preset rebuilt from a real reference",
+      "date": "2026-07-17",
+      "text": "The Photoshop preset now matches an actual Photoshop screenshot: sampled palette, flat 1px chrome, a single options bar, a slim tool strip and a collapsible panel rail on the right. Pick it under Settings > Themes."
+    },
+    {
+      "title": "TypeR: vertical text and a balloon shape library",
+      "date": "2026-07-17",
+      "text": "TypeR can set tategaki (columns running top to bottom, right to left) for narrow bubbles and signs, and draw eight balloon shapes — oval, cloud, burst, radio, dashed, robot, wavy and rough — straight into a detected bubble."
+    }
+  ]
+}
