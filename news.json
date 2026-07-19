@@ -4,6 +4,11 @@
   "url": "https://github.com/valle3011/TS-Editor/releases",
   "items": [
     {
+      "title": "Perspective Text: warp lettering onto signs and screens",
+      "date": "2026-07-19",
+      "text": "A new tool in the toolbox warps text to fit any four corners you click - for text that has to sit on a sign, a can, or a screen. Like Inkscape's object-to-path perspective, it gives true foreshortening, not a flat skew. Type the text in the tool options (with Krita's fast searchable font picker), click the four corners of the surface, and it drops in as a vector shape. More mesh/warp lettering tools are on the way."
+    },
+    {
       "title": "Photoshop design preset rebuilt from a real reference",
       "date": "2026-07-17",
       "text": "The Photoshop preset now matches an actual Photoshop screenshot: sampled palette, flat 1px chrome, a single options bar, a slim tool strip and a collapsible panel rail on the right. Pick it under Settings > Themes."
